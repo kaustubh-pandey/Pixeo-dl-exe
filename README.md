@@ -12,4 +12,19 @@ For e.g. pixeo.iiits.in/categories.php?category=NWK
 
 Here the course id =NWK
 
+To extract: Double click on lib.zip, click on Extract to on win RAR ,and click oK
+
+Note: 
+
+Directory structure
+
+Pixeo-dl-master/pixeo-dl.exe
+
+Pixeo-dl-master/python36.dll
+
+Pixeo-dl-master/lib
+
+Inside lib there should be folders like bs4,urllib etc.
+
+
 * Copyright
