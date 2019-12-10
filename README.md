@@ -26,3 +26,5 @@ Inside lib there should be folders like bs4,urllib etc.
 
 
 &copy; Copyright
+
+NOTE: The pixeo website is now dead, this project is abandoned
